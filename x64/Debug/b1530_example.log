@@ -1,0 +1,6 @@
+﻿  b1530_example.cpp
+\\192.168.122.1\Public\b1530_example\b1530_example.cpp(58,39): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+\\192.168.122.1\Public\b1530_example\b1530_example.cpp(59,41): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+\\192.168.122.1\Public\b1530_example\b1530_example.cpp(74,29): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+\\192.168.122.1\Public\b1530_example\b1530_example.cpp(75,31): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  b1530_example.vcxproj -> \\192.168.122.1\Public\b1530_example\x64\Debug\b1530_example.exe
